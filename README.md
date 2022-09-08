@@ -17,7 +17,7 @@
 
 ## Installation
 1. Clone the repository
-`https://github.com/chiamakanwabulue/monty.git`
+`https://github.com/Chimmysmallz/monty.git`
 
 2. Compile the program
 `gcc -Wall -Werror -Wextra -pedantic *.c -o monty`
